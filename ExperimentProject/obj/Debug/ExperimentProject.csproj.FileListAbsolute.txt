@@ -1,0 +1,7 @@
+D:\smth\походу уник\spp\spp4\ExperimentProject\bin\Debug\ExperimentProject.exe.config
+D:\smth\походу уник\spp\spp4\ExperimentProject\bin\Debug\ExperimentProject.exe
+D:\smth\походу уник\spp\spp4\ExperimentProject\bin\Debug\ExperimentProject.pdb
+D:\smth\походу уник\spp\spp4\ExperimentProject\obj\Debug\ExperimentProject.csprojAssemblyReference.cache
+D:\smth\походу уник\spp\spp4\ExperimentProject\obj\Debug\ExperimentProject.csproj.CoreCompileInputs.cache
+D:\smth\походу уник\spp\spp4\ExperimentProject\obj\Debug\ExperimentProject.exe
+D:\smth\походу уник\spp\spp4\ExperimentProject\obj\Debug\ExperimentProject.pdb
